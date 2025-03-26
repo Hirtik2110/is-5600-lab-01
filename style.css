@@ -132,7 +132,7 @@ main {
 
 .card .social .comment::before {
    content: '💬 ';
-   color: rgb(255, 98, 0));
+   color: blue);
 }
 
 /* Responsive design */
